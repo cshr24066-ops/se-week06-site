@@ -1,2 +1,4 @@
 # se-week06-site
-# ソフトウェア工学
+
+自己紹介サイトを掲載しました．
+https://cshr24066-ops.github.io/se-week06-site
